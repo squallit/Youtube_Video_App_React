@@ -6,6 +6,7 @@ import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 
+//Signed up for Google Developer API and put it here
 // const API_KEY = 'Google API_KEY should be put here';
 
 
